@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/phuwanutj/demo-pyci.svg?branch=master)](https://travis-ci.com/phuwanutj/demo-pyci)
+
 Continuous Integration Demo
 ============================
 
