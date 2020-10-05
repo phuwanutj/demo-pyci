@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/phuwanutj/demo-pyci.svg?branch=master)](https://travis-ci.com/phuwanutj/demo-pyci)
-[![codecov](https://codecov.io/gh/phuwanutj/demo-pyci/branch/master/graph/badge.svg?token=EYALFXKR2D)](undefined)
+[![codecov](https://codecov.io/gh/phuwanutj/demo-pyci/branch/master/graph/badge.svg?token=EYALFXKR2D)]
 
 Continuous Integration Demo
 ============================
